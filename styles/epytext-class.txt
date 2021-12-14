@@ -1,3 +1,5 @@
 """
+[TODO:description]
+
 {% if attr|len > 0 %}{% for a in attr %}@attribute {{a}}:
 {% endfor %}{% endif %}"""
